@@ -1,30 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 29, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Dug into `box-shadow` and started a deep dive into CSS in general. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** My goal with 100 days of code is to become so confident with CSS that I can look at virtually any UI mockup and think "Yeah, I could make that".  So today I started with a design trend that really interests me, which is Neumorphism/Skeumorphism.  I took [these mockups](https://dribbble.com/shots/11652074-FREE-Neumorphism-UI-Kit) as inspiration.  
 
-**Link to work:** [Calculator App](http://www.example.com)
+Tomorrow, I'll be implementing a dark theme, and (hopefully) a toggle for going back and forth between light and dark.  Optimally, I'll also clean up the CSS and introduce some variables. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** [Neumorphic Profile Card](https://codepen.io/sRobDevGG/pen/ExPBPZE)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
