@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 29, 2020
+### Day 1: July 29, 2020
 
 **Today's Progress**: Dug into `box-shadow` and started a deep dive into CSS in general. 
 
@@ -10,7 +10,7 @@ Tomorrow, I'll be implementing a dark theme, and (hopefully) a toggle for going 
 
 **Link to work:** [Neumorphic Profile Card](https://codepen.io/sRobDevGG/pen/ExPBPZE)
 
-### Day 1: July 30, 2020
+### Day 2: July 30, 2020
 
 **Today's Progress**: Usage of `::before` and `::after` to create a slider, and programmatically changing CSS variables with JS 
 
@@ -19,4 +19,12 @@ Tomorrow, I'll be implementing a dark theme, and (hopefully) a toggle for going 
 Tomorrow, I'm not entirely sure what I'll do.  I think I'll probably clean up this code a little bit, see if there's ways I can condense the JS side of things. After that, I'll probably find more elements to add to this page or build in this style.  Maybe I'll end up just making a full profile page?  We'll see!
 
 **Link to work:** [Neumorphic Profile Card with Dark/Light Toggle](https://codepen.io/sRobDevGG/full/QWyXZqQ)
+
+### Day 3: July 31, 2020
+
+**Today's Progress**: Major refactor of CSS and JS to make theming easier
+
+**Thoughts:** Didn't get a whole lot of progress outside of a refactor done due to having a super busy day, but thanks to [this](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8) tutorial, I was able to set up an actual dark theme and consolidate all the CSS into a light theme and a dark theme.  The JS also became _much_ more simple than before.
+
+**Link to work:** [Updated Themed Neumorphic Card](https://codepen.io/sRobDevGG/pen/NWxQjGd)
 
