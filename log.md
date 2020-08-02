@@ -28,3 +28,11 @@ Tomorrow, I'm not entirely sure what I'll do.  I think I'll probably clean up th
 
 **Link to work:** [Updated Themed Neumorphic Card](https://codepen.io/sRobDevGG/pen/NWxQjGd)
 
+### Day 4: August 1, 2020
+
+**Today's Progress**: Started an API to interact with HLTV and gather team data.  Started an Express NodeJS API from scratch and learned the fundamentals of how to interact with MongoDB.
+
+**Thoughts:** Will eventually build this out with a frontend as well, where users can add two teams and see a breakdown of their head to head, past results, etc, and get a prediction of the winner based on analysis of those stats.  Using [this](https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/) tutorial as reference.
+
+**Link to work:** [cs-prediction-app](https://github.com/sRobDev/cs-prediction-app)
+
